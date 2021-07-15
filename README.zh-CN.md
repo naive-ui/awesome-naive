@@ -4,7 +4,6 @@
 
 <h1 align="center">Awesome Naive UI</h1>
 <p align="center"><b>一个罗列了与 Naive UI 相关的列表</b></p>
-<p align="center">各种黑科技，有点意思</p>
 
 <p align="center"><a href="README.zh-CN.md">English</a> | 中文</p>
 
