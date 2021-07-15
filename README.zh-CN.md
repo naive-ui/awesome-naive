@@ -13,13 +13,16 @@
 
 ## 目录
 
-- [使用时的封装](#使用时的封装)
+- [教程](#教程)
+- [使用 NaiveUI 的库](#使用-NaiveUI-的库)
 - [NaiveUI 相关库](#NaiveUI-相关库)
 
 ## 列表
 <!-- md-parser-start -->
-### 使用时的封装
+### 教程
 
 - [Provider management](https://amadeus711.github.io/note/vue/naive-ui-provider-management.html) - 封装用于集中管理 NaiveUI provider 的组件
+
+### 使用 NaiveUI 的库
 
 ### NaiveUI 相关库
