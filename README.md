@@ -18,8 +18,8 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ## List
 <!-- md-parser-start -->
-## Using Encapsulation
+### Using Encapsulation
 
 - [Provider management](https://amadeus711.github.io/note/vue/naive-ui-provider-management.html) - Encapsulating components for centralized management of NaiveUI's provider.
 
-## Projects Using NaiveUI
+### Projects Using NaiveUI
