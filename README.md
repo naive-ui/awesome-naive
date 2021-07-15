@@ -13,13 +13,17 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ## Contents
 
-- [Using Encapsulation](#Using-Encapsulation)
+- [Tutorial](#Tutorial)
 - [Projects Using NaiveUI](#Projects-Using-NaiveUI)
+- [Related To NaiveUI](#Related-To-NaiveUI)
 
 ## List
 <!-- md-parser-start -->
-### Using Encapsulation
+### Tutorial
 
 - [Provider management](https://amadeus711.github.io/note/vue/naive-ui-provider-management.html) - Encapsulating components for centralized management of NaiveUI's provider.
 
 ### Projects Using NaiveUI
+
+
+### Related To NaiveUI
