@@ -27,4 +27,4 @@
 
 ### NaiveUI 相关库
 
-- [evtd](https://github.com/07akioni/evtd) - 用于扩展事件的事件委派的小型库
+- [evtd](https://github.com/07akioni/evtd) - 用于扩展事件及事件委派的小型库
