@@ -32,4 +32,5 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Vueuc](https://github.com/07akioni/vueuc) - Util Components for Vue.
 - [treemate](https://github.com/07akioni/treemate) - All in one solution for tree structure in component developling.
 - [vooks](https://github.com/07akioni/vooks) - Utils Composable for Vue.
+- [vdirs](https://github.com/07akioni/vdirs) - Helper directives for Vue.
 
