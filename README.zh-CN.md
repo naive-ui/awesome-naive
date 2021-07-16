@@ -25,6 +25,8 @@
 
 ### 使用 NaiveUI 的库
 
+- [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue 提交模板项目
+
 ### NaiveUI 相关库
 
 - [Evtd](https://github.com/07akioni/evtd) - 用于扩展事件及事件委派的小型库
