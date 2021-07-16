@@ -25,6 +25,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Projects Using NaiveUI
 
+- [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue submit template project.
 
 ### Related To NaiveUI
 
