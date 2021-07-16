@@ -31,3 +31,4 @@
 - [Vueuc](https://github.com/07akioni/vueuc) - Vue 的工具库
 - [treemate](https://github.com/07akioni/treemate) - 组件开发中树形结构的多合一解决方案
 - [vooks](https://github.com/07akioni/vooks) - Vue 的可组合式工具库
+- [vdirs](https://github.com/07akioni/vdirs) - Vue 的辅助指令库
