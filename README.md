@@ -31,4 +31,5 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Evtd](https://github.com/07akioni/evtd) - Event delegation with native events and extended events in a small library.
 - [Vueuc](https://github.com/07akioni/vueuc) - Util Components for Vue.
 - [treemate](https://github.com/07akioni/treemate) - All in one solution for tree structure in component developling.
+- [vooks](https://github.com/07akioni/vooks) - Utils Composable for Vue.
 
