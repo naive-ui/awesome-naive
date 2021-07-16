@@ -28,4 +28,6 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Related To NaiveUI
 
-- [evtd](https://github.com/07akioni/evtd) - Event delegation with native events and extended events in a small library.
+- [Evtd](https://github.com/07akioni/evtd) - Event delegation with native events and extended events in a small library.
+- [Vueuc](https://github.com/07akioni/vueuc) - Util Components for Vue.
+
