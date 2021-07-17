@@ -2,7 +2,7 @@
 
 Welcome to contributing your interesting ideas in this project, but in order to improve the maintainability of the project, we need to pay attention to a few points:
 
-- You can add links to blogs, minimal implementation component libraries, etc. in the list.
+- You can add links to NaiveUI related projects, blogs, minimal implementation component libraries, etc. in the list.
 - Please add content in the corresponding directory, don't add directory at will.
 - The added format is `- [title] (url) - introduction`.
 - You need to add period `.` after the English introduction. Don't add period `。` after the Chinese introduction.
@@ -12,7 +12,7 @@ Welcome to contributing your interesting ideas in this project, but in order to 
 
 欢迎在这个项目中贡献出你的奇思妙想，但是为了提高项目的可维护性，我们需要注意以下几点：
 
-- 可以在列表中添加博客、最小实现组件库等内容的链接
+- 可以在列表中添加与 NaiveUI 相关的项目、博客、最小实现组件库等内容的链接
 - 请在对应目录下添加内容，不要随意添加目录
 - 添加的格式为 `- [标题](地址) - 简介`
 - 英文简介后需要添加英文句号 `.`，不要在中文简介后加句号 `。`
