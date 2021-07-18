@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Awesome Naive UI</h1>
-<p align="center"><b>一个罗列了与 Naive UI 相关的列表</b></p>
+<p align="center"><b>一个罗列了与 Naive UI 相关的内容的列表</b></p>
 
 <p align="center"><a href="README.md">English</a> | 中文</p>
 
