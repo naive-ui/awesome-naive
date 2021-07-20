@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1228px" src="https://naiveui.oss-cn-hongkong.aliyuncs.com/awesomenaive.jpg" />
+  <img width="512px" src="https://naiveui.oss-cn-hongkong.aliyuncs.com/awesomenaive.jpg" />
 </p>
 
 <h1 align="center">Awesome Naive UI</h1>
