@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="144px" src="https://naiveui.oss-cn-hongkong.aliyuncs.com/naivelogo.svg" />
+  <img width="1228px" src="https://naiveui.oss-cn-hongkong.aliyuncs.com/awesomenaive.jpg" />
 </p>
 
 <h1 align="center">Awesome Naive UI</h1>
@@ -18,7 +18,9 @@
 - [NaiveUI 相关库](#NaiveUI-相关库)
 
 ## 列表
+
 <!-- md-parser-start -->
+
 ### 教程
 
 - [Provider management](https://amadeus711.github.io/note/vue/naive-ui-provider-management.html) - 封装用于集中管理 NaiveUI provider 的组件
