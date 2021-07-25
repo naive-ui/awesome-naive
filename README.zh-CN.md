@@ -28,6 +28,7 @@
 
 ### 使用 NaiveUI 的库
 
+- [Naive UI Admin](https://github.com/jekip/naive-ui-admin) - 免费开源的中后台模板
 - [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue 提交模板项目
 
 ### NaiveUI 相关库
