@@ -30,6 +30,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 - [Naive UI Admin](https://github.com/jekip/naive-ui-admin) - A free open source out-of-box UI solution for enterprise applications.
 - [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue submit template project.
+- [moon-admin](https://github.com/moon-studio/moon-admin) - Based on Vue 3 + Typescript + Vite, a backend management template deeply customized based on Naive UI.
 
 ### Related To NaiveUI
 

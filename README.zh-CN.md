@@ -30,6 +30,7 @@
 
 - [Naive UI Admin](https://github.com/jekip/naive-ui-admin) - 免费开源的中后台模板
 - [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue 提交模板项目
+- [moon-admin](https://github.com/moon-studio/moon-admin) - 以 Vue 3 + Typescript + Vite 为基础，基于 Naive UI 深度定制的后台管理模板
 
 ### NaiveUI 相关库
 
