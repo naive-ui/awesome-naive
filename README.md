@@ -25,6 +25,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 - [Provider management](https://amadeus711.github.io/note/vue/naive-ui-provider-management.html) - Encapsulating components for centralized management of NaiveUI's provider.
 - [naive-ui-provider](https://github.com/Talljack/naive-ui-provider) - NaiveUI uses provider project example.
+- [moon-admin](https://github.com/moon-studio/moon-admin) - Based on Vue 3 + Typescript + Vite, a background management template deeply customized based on Naive UI.
 
 ### Projects Using NaiveUI
 
@@ -39,4 +40,3 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [treemate](https://github.com/07akioni/treemate) - All in one solution for tree structure in component developling.
 - [vooks](https://github.com/07akioni/vooks) - Utils Composable for Vue.
 - [vdirs](https://github.com/07akioni/vdirs) - Helper directives for Vue.
-- [moon-admin](https://github.com/moon-studio/moon-admin) - Based on Vue 3 + Typescript + Vite, a background management template deeply customized based on Naive UI.

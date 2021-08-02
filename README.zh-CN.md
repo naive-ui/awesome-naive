@@ -25,6 +25,7 @@
 
 - [Provider management](https://amadeus711.github.io/note/vue/naive-ui-provider-management.html) - 封装用于集中管理 NaiveUI provider 的组件
 - [naive-ui-provider](https://github.com/Talljack/naive-ui-provider) - NaiveUI 使用 provider 项目示例
+- [moon-admin](https://github.com/moon-studio/moon-admin) - 以Vue 3 + Typescript + Vite为基础，基于Naive UI深度定制的后台管理模板
 
 ### 使用 NaiveUI 的库
 
@@ -39,4 +40,3 @@
 - [treemate](https://github.com/07akioni/treemate) - 组件开发中树形结构的多合一解决方案
 - [vooks](https://github.com/07akioni/vooks) - Vue 的可组合式工具库
 - [vdirs](https://github.com/07akioni/vdirs) - Vue 的指令辅助库
-- [moon-admin](https://github.com/moon-studio/moon-admin) - 以Vue 3 + Typescript + Vite为基础，基于Naive UI深度定制的后台管理模板
