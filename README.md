@@ -25,12 +25,12 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 - [Provider management](https://amadeus711.github.io/note/vue/naive-ui-provider-management.html) - Encapsulating components for centralized management of NaiveUI's provider.
 - [naive-ui-provider](https://github.com/Talljack/naive-ui-provider) - NaiveUI uses provider project example.
-- [moon-admin](https://github.com/moon-studio/moon-admin) - Based on Vue 3 + Typescript + Vite, a background management template deeply customized based on Naive UI.
 
 ### Projects Using NaiveUI
 
 - [Naive UI Admin](https://github.com/jekip/naive-ui-admin) - A free open source out-of-box UI solution for enterprise applications.
 - [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue submit template project.
+- [moon-admin](https://github.com/moon-studio/moon-admin) - Based on Vue 3 + Typescript + Vite, a background management template deeply customized based on Naive UI.
 
 ### Related To NaiveUI
 

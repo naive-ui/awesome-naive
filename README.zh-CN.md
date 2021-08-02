@@ -25,12 +25,12 @@
 
 - [Provider management](https://amadeus711.github.io/note/vue/naive-ui-provider-management.html) - 封装用于集中管理 NaiveUI provider 的组件
 - [naive-ui-provider](https://github.com/Talljack/naive-ui-provider) - NaiveUI 使用 provider 项目示例
-- [moon-admin](https://github.com/moon-studio/moon-admin) - 以Vue 3 + Typescript + Vite为基础，基于Naive UI深度定制的后台管理模板
 
 ### 使用 NaiveUI 的库
 
 - [Naive UI Admin](https://github.com/jekip/naive-ui-admin) - 免费开源的中后台模板
 - [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue 提交模板项目
+- [moon-admin](https://github.com/moon-studio/moon-admin) - 以Vue 3 + Typescript + Vite为基础，基于Naive UI深度定制的后台管理模板
 
 ### NaiveUI 相关库
 
