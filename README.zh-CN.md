@@ -41,3 +41,4 @@
 - [treemate](https://github.com/07akioni/treemate) - 组件开发中树形结构的多合一解决方案
 - [vooks](https://github.com/07akioni/vooks) - Vue 的可组合式工具库
 - [vdirs](https://github.com/07akioni/vdirs) - Vue 的指令辅助库
+- [naive-ui-snippets](https://github.com/JimFirst/naive-ui-snippets) - VS Code 中 Naive UI 的 Code Snippets 工具
