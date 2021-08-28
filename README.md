@@ -32,6 +32,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue submit template project.
 - [moon-admin](https://github.com/moon-studio/moon-admin) - Based on Vue 3 + Typescript + Vite, a backend management template deeply customized based on Naive UI.
 - [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
+- [tsx-naive-admin](https://github.com/WalkAlone0325/tsx-naive-admin) - A backend management template based on Vue 3 + Naive UI + TSX + Vite.
 
 ### Related To NaiveUI
 
