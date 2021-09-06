@@ -33,6 +33,7 @@
 - [moon-admin](https://github.com/moon-studio/moon-admin) - 以 Vue 3 + Typescript + Vite 为基础，基于 Naive UI 深度定制的后台管理模板
 - [zce/fearless](https://github.com/zce/fearless) - 一个基于 Vue.js 3.x & TypeScript & Vite 的管理平台脚手架，包含基本的身份认证和鉴权
 - [tsx-naive-admin](https://github.com/WalkAlone0325/tsx-naive-admin) - 基于 Vue 3 + Naive UI + TSX + Vite 的后台管理基本模板
+- [Aisen60/vant-theme](https://github.com/Aisen60/vant-theme) - 基于 Vant UI 的在线主题预览工具
 
 ### NaiveUI 相关库
 
