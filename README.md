@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Awesome Naive UI</h1>
-<p align="center">A curated list of awesome things related to [Naive UI](https://github.com/TuSimple/naive-ui)</p>
+<p align="center">A curated list of awesome things related to Naive UI</p>
 
 <p align="center">English | <a href="README.zh-CN.md">中文</a></p>
 
