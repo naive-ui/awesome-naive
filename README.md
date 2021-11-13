@@ -35,6 +35,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [tsx-naive-admin](https://github.com/WalkAlone0325/tsx-naive-admin) - A backend management template based on Vue 3 + Naive UI + TSX + Vite.
 - [Aisen60/vant-theme](https://github.com/Aisen60/vant-theme) - Online theme preview tool built on vant UI
 - [Opentapes](https://codeberg.org/xaviers/Opentapes) - A convergent/adaptive app for streaming Hip-Hop mixtapes. Made with Vue.js & Tauri.
+- [Soybean Admin](https://github.com/honghuangdc/soybean-admin) - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
 
 ### Related To NaiveUI
 
