@@ -36,6 +36,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Aisen60/vant-theme](https://github.com/Aisen60/vant-theme) - Online theme preview tool built on vant UI
 - [Opentapes](https://codeberg.org/xaviers/Opentapes) - A convergent/adaptive app for streaming Hip-Hop mixtapes. Made with Vue.js & Tauri.
 - [Soybean Admin](https://github.com/honghuangdc/soybean-admin) - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
+- [Sweetforms] (https://github.com/ChronicStone/VueSweetforms) - A feature rich schema-based form generator package build with Naive UI + Typescript
 
 ### Related To NaiveUI
 
