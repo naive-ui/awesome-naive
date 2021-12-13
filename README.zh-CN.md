@@ -37,6 +37,7 @@
 - [Opentapes](https://codeberg.org/xaviers/Opentapes) - 一款用于播放 Hip-Hop 混音带的融合 / 适应性应用，使用 Vue.js 和 Tauri 制作
 - [Soybean Admin](https://github.com/honghuangdc/soybean-admin) - 一个基于 Vue3 + Vite + Naive UI + TypeScript 的漂亮清爽的中后台模版
 - [Sweetforms](https://github.com/ChronicStone/VueSweetforms) - 一个基于 Naive UI + Typescript 功能丰富基于模式的表单生成器库
+- [naive-ui-form-creator](https://github.com/doom-9/naive-ui-form-creator) - 一个基于 Naive UI 功能丰富的可视化表单生成器
 
 ### NaiveUI 相关库
 
