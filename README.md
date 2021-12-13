@@ -37,6 +37,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Opentapes](https://codeberg.org/xaviers/Opentapes) - A convergent/adaptive app for streaming Hip-Hop mixtapes. Made with Vue.js & Tauri.
 - [Soybean Admin](https://github.com/honghuangdc/soybean-admin) - a beautiful vue admin template, based on Vue3 + Vite + Naive UI + TypeScript.
 - [Sweetforms](https://github.com/ChronicStone/VueSweetforms) - A feature rich schema-based form generator package build with Naive UI + Typescript.
+- [Pear-Admin-Naive](https://github.com/pearadmin/pear-admin-naive) - A free open source admin template, base on Typescript + Vue3(script setup) + Vite + Naive UI + umi-request(Fetch).
 - [naive-ui-form-creator](https://github.com/doom-9/naive-ui-form-creator) - A visual form generator with rich functions based on naive UI.
 
 ### Related To NaiveUI
