@@ -35,7 +35,8 @@
 - [tsx-naive-admin](https://github.com/WalkAlone0325/tsx-naive-admin) - 基于 Vue 3 + Naive UI + TSX + Vite 的后台管理基本模板
 - [Aisen60/vant-theme](https://github.com/Aisen60/vant-theme) - 基于 Vant UI 的在线主题预览工具
 - [Opentapes](https://codeberg.org/xaviers/Opentapes) - 一款用于播放 Hip-Hop 混音带的融合 / 适应性应用，使用 Vue.js 和 Tauri 制作
-- [Soybean Admin](https://github.com/honghuangdc/soybean-admin) - 一个基于Vue3 + Vite + Naive UI + TypeScript的漂亮清爽的中后台模版
+- [Soybean Admin](https://github.com/honghuangdc/soybean-admin) - 一个基于 Vue3 + Vite + Naive UI + TypeScript 的漂亮清爽的中后台模版
+- [Sweetforms](https://github.com/ChronicStone/VueSweetforms) - 一个基于 Naive UI + Typescript 功能丰富基于模式的表单生成器库
 
 ### NaiveUI 相关库
 
