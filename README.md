@@ -32,6 +32,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Naive UI Admin](https://github.com/jekip/naive-ui-admin) - A free open source out-of-box UI solution for enterprise applications.
 - [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue submit template project.
 - [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
+- [zmtlwzy-admin](https://github.com/zmtlwzy/zmtlwzy-admin) - A free open source, original style admin template.
 - [tsx-naive-admin](https://github.com/WalkAlone0325/tsx-naive-admin) - A backend management template based on Vue 3 + Naive UI + TSX + Vite.
 - [Aisen60/vant-theme](https://github.com/Aisen60/vant-theme) - Online theme preview tool built on vant UI
 - [Opentapes](https://codeberg.org/xaviers/Opentapes) - A convergent/adaptive app for streaming Hip-Hop mixtapes. Made with Vue.js & Tauri.
