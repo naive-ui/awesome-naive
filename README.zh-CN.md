@@ -13,9 +13,12 @@
 
 ## 目录
 
-- [教程](#教程)
-- [使用 NaiveUI 的库](#使用-NaiveUI-的库)
-- [NaiveUI 相关库](#NaiveUI-相关库)
+- [贡献](#贡献)
+- [目录](#目录)
+- [列表](#列表)
+  - [教程](#教程)
+  - [使用 NaiveUI 的库](#使用-naiveui-的库)
+  - [NaiveUI 相关库](#naiveui-相关库)
 
 ## 列表
 
@@ -31,6 +34,7 @@
 - [Admin Work](https://github.com/qingqingxuan/admin-work) - 一款免费开源、功能强大、方便易用、漂亮的中后台管理系统模板
 - [Naive UI Admin](https://github.com/jekip/naive-ui-admin) - 免费开源的中后台模板
 - [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue 提交模板项目
+- [Geimini Admin UI Simple](https://github.com/luterc/gemini-admin-ui-simple) - 简单易用免费开源的中后台管理模板脚手架
 - [zce/fearless](https://github.com/zce/fearless) - 一个基于 Vue.js 3.x & TypeScript & Vite 的管理平台脚手架，包含基本的身份认证和鉴权
 - [zmtlwzy-admin](https://github.com/zmtlwzy/zmtlwzy-admin) - 一个接近原生风格、免费开源的中后台模板
 - [tsx-naive-admin](https://github.com/WalkAlone0325/tsx-naive-admin) - 基于 Vue 3 + Naive UI + TSX + Vite 的后台管理基本模板
