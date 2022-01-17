@@ -33,7 +33,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 - [Admin Work](https://github.com/qingqingxuan/admin-work) -A free open source, powerful, easy to use, beautiful back-office management system solution.
 - [Naive UI Admin](https://github.com/jekip/naive-ui-admin) - A free open source out-of-box UI solution for enterprise applications.
-- [Geimini Admin UI Simple](https://github.com/jekip/naive-ui-admin) - A free open source   UI solution,easy to use ,simple and clean.
+- [Gemini Admin UI Simple](https://github.com/luterc/gemini-admin-ui-simple) - A free open source   UI solution,easy to use ,simple and clean.
 - [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue submit template project.
 - [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
 - [zmtlwzy-admin](https://github.com/zmtlwzy/zmtlwzy-admin) - A free open source, original style admin template.
