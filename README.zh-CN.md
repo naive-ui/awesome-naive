@@ -46,6 +46,7 @@
 - [naive-ui-form-creator](https://github.com/doom-9/naive-ui-form-creator) - 一个基于 Naive UI 功能丰富的可视化表单生成器
 - [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler/tree/dev/dolphinscheduler-ui-next) - 分布式易扩展的可视化工作流任务调度平台
 - [SymPy Beta](https://github.com/eagleoflqj/sympy_beta) - 无后端的问答引擎，基于 SymPy 和 Pyodide
+- [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) - 一个基于 Vue3.0、Vite、Naive UI、Pinia 的轻量级后台管理模板，免费开源，优雅简洁
 
 ### NaiveUI 相关库
 
