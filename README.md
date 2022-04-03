@@ -48,6 +48,10 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [SymPy Beta](https://github.com/eagleoflqj/sympy_beta) - An answer engine without backend, powered by SymPy and Pyodide.
 - [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
 
+### Third-party components for NaiveUI
+
+- [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - A lightweight NaiveUI component for selecting gradients based on CSS gradient syntax
+
 ### Related To NaiveUI
 
 - [xicons](https://github.com/07akioni/xicons) - SVG icon integrated component Library.
