@@ -49,6 +49,10 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
 - [free-core](https://github.com/eamesh/free-core) - A drag and drop cross end page design core, base on Vue 3 + Vite + Naive UI.
 
+### Third-party components for NaiveUI
+
+- [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - A lightweight NaiveUI component for selecting gradients based on CSS gradient syntax
+
 ### Related To NaiveUI
 
 - [xicons](https://github.com/07akioni/xicons) - SVG icon integrated component Library.
