@@ -44,7 +44,7 @@
 - [Sweetforms](https://github.com/ChronicStone/VueSweetforms) - 一个基于 Naive UI + Typescript 功能丰富基于模式的表单生成器库
 - [Pear-Admin-Naive](https://github.com/pearadmin/pear-admin-naive) - 免费开源的中后台模板，基于Typescript + Vue3(script setup语法) + Vite + Naive UI + umi-request(Fetch)构建
 - [naive-ui-form-creator](https://github.com/doom-9/naive-ui-form-creator) - 一个基于 Naive UI 功能丰富的可视化表单生成器
-- [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler/tree/dev/dolphinscheduler-ui-next) - 分布式易扩展的可视化工作流任务调度平台
+- [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) - 分布式易扩展的可视化工作流任务调度平台
 - [SymPy Beta](https://github.com/eagleoflqj/sympy_beta) - 无后端的问答引擎，基于 SymPy 和 Pyodide
 - [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) - 一个基于 Vue3.0、Vite、Naive UI、Pinia 的轻量级后台管理模板，免费开源，优雅简洁
 - [free-core](https://github.com/eamesh/free-core) - 一个可拖拽的跨端页面设计核心, 基于 Vue 3 + Vite + Naive UI.

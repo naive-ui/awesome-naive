@@ -44,7 +44,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Sweetforms](https://github.com/ChronicStone/VueSweetforms) - A feature rich schema-based form generator package build with Naive UI + Typescript.
 - [Pear-Admin-Naive](https://github.com/pearadmin/pear-admin-naive) - A free open source admin template, base on Typescript + Vue3(script setup) + Vite + Naive UI + umi-request(Fetch).
 - [naive-ui-form-creator](https://github.com/doom-9/naive-ui-form-creator) - A visual form generator with rich functions based on naive UI.
-- [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler/tree/dev/dolphinscheduler-ui-next) - A distributed and easy-to-extend visual workflow scheduler system.
+- [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) - A distributed and easy-to-extend visual workflow scheduler system.
 - [SymPy Beta](https://github.com/eagleoflqj/sympy_beta) - An answer engine without backend, powered by SymPy and Pyodide.
 - [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
 - [free-core](https://github.com/eamesh/free-core) - A drag and drop cross end page design core, base on Vue 3 + Vite + Naive UI.
