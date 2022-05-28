@@ -49,7 +49,7 @@
 - [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) - 一个基于 Vue3.0、Vite、Naive UI、Pinia 的轻量级后台管理模板，免费开源，优雅简洁
 - [free-core](https://github.com/eamesh/free-core) - 一个可拖拽的跨端页面设计核心, 基于 Vue 3 + Vite + Naive UI.
 
-### Third-party components for NaiveUI
+### NaiveUI 第三方组件
 
 - [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - 基于 CSS 渐变语法选择渐变的轻量级 Naive-UI 组件
 
