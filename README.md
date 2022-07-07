@@ -49,6 +49,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
 - [free-core](https://github.com/eamesh/free-core) - A drag and drop cross end page design core, base on Vue 3 + Vite + Naive UI.
 - [vitesse-modular-naiveui](https://github.com/arijs/vitesse-modular-naiveui) - A modular template based on [Vitesse](https://github.com/antfu/vitesse) with many features.
+- [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) - A backend management template, base on Vue 3 + Vite 2 + Naive UI.
 
 ### Third-party components for NaiveUI
 
