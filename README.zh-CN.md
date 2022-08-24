@@ -49,6 +49,7 @@
 - [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) - 一个基于 Vue3.0、Vite、Naive UI、Pinia 的轻量级后台管理模板，免费开源，优雅简洁
 - [free-core](https://github.com/eamesh/free-core) - 一个可拖拽的跨端页面设计核心, 基于 Vue 3 + Vite + Naive UI.
 - [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) - 一款基于 Vue 3 + Naive UI + Vite 2 的中后台管理模板
+- [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 音乐流媒体 Vue3 + Vite + TypeScript + Naive UI
 
 ### NaiveUI 第三方组件
 
