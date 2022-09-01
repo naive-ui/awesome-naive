@@ -50,6 +50,7 @@
 - [free-core](https://github.com/eamesh/free-core) - 一个可拖拽的跨端页面设计核心, 基于 Vue 3 + Vite + Naive UI.
 - [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) - 一款基于 Vue 3 + Naive UI + Vite 2 的中后台管理模板
 - [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 音乐流媒体 Vue3 + Vite + TypeScript + Naive UI
+- [OpenDataV](https://github.com/AnsGoo/openDataV) - 一个炫酷的拖拽式、低代码数据可视化框架 Vue3 + Vite + TypeScript + Naive UI
 
 ### NaiveUI 第三方组件
 
