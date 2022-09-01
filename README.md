@@ -52,6 +52,9 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) - A backend management template, base on Vue 3 + Vite 2 + Naive UI.
 - [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - Music streaming. Vue3 + Vite + TypeScript + Naive UI 
 
+- [OpenDataV](https://github.com/AnsGoo/openDataV) - A cool drag and drop, low code data visualization framework Vue3 + Vite + TypeScript + Naive UI
+
+
 ### Third-party components for NaiveUI
 
 - [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - A lightweight NaiveUI component for selecting gradients based on CSS gradient syntax
