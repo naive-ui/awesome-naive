@@ -53,7 +53,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - Music streaming. Vue3 + Vite + TypeScript + Naive UI 
 
 - [OpenDataV](https://github.com/AnsGoo/openDataV) - A cool drag and drop, low code data visualization framework Vue3 + Vite + TypeScript + Naive UI
-- [Walnut Admin](https://github.com/Zhaocl1997/walnut-admin-client) - A free open source fullstack admin template project based on Typescript. Vue3 + Vite + Naive UI + [Nestjs](https://nestjs.com/) + [mongodb](https://www.mongodb.com/). Long term maintained, pr, issues and ideas welcomed.
+- [Walnut Admin](https://github.com/Zhaocl1997/walnut-admin-client) - A free open source fullstack admin template project based on Typescript. Vue3 + Vite + Naive UI + [Nestjs](https://nestjs.com/) + [mongodb](https://www.mongodb.com/).
 
 
 ### Third-party components for NaiveUI
