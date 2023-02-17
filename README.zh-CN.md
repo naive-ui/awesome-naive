@@ -51,6 +51,7 @@
 - [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) - 一款基于 Vue 3 + Naive UI + Vite 2 的中后台管理模板
 - [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 音乐流媒体 Vue3 + Vite + TypeScript + Naive UI
 - [OpenDataV](https://github.com/AnsGoo/openDataV) - 一个炫酷的拖拽式、低代码数据可视化框架 Vue3 + Vite + TypeScript + Naive UI
+- [Walnut Admin](https://github.com/Zhaocl1997/walnut-admin-client) - 免费开源全栈管理模板项目基于 Typescript. Vue3 + Vite + Naive UI + [Nestjs](https://nestjs.com/) + [mongodb](https://www.mongodb.com/).
 
 ### NaiveUI 第三方组件
 
