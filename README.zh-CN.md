@@ -29,29 +29,33 @@
 - [Provider management](https://amadeus711.github.io/note/vue/naive-ui-provider-management.html) - 封装用于集中管理 NaiveUI provider 的组件
 - [naive-ui-provider](https://github.com/Talljack/naive-ui-provider) - NaiveUI 使用 provider 项目示例
 
-### 使用 NaiveUI 的库
+### 使用 NaiveUI 的中后台模板项目
 
 - [Admin Work](https://github.com/qingqingxuan/admin-work) - 一款免费开源、功能强大、方便易用、漂亮的中后台管理系统模板
 - [Naive UI Admin](https://github.com/jekip/naive-ui-admin) - 免费开源的中后台模板
-- [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue 提交模板项目
 - [Gemini Admin UI Simple](https://github.com/luterc/gemini-admin-ui-simple) - 简单易用免费开源的中后台管理模板脚手架
 - [zce/fearless](https://github.com/zce/fearless) - 一个基于 Vue.js 3.x & TypeScript & Vite 的管理平台脚手架，包含基本的身份认证和鉴权
 - [zmtlwzy-admin](https://github.com/zmtlwzy/zmtlwzy-admin) - 一个接近原生风格、免费开源的中后台模板
 - [tsx-naive-admin](https://github.com/WalkAlone0325/tsx-naive-admin) - 基于 Vue 3 + Naive UI + TSX + Vite 的后台管理基本模板
+- [Soybean Admin](https://github.com/honghuangdc/soybean-admin) - 一个基于 Vue3 + Vite + Naive UI + TypeScript 的漂亮清爽的中后台模版
+- [Pear-Admin-Naive](https://github.com/pearadmin/pear-admin-naive) - 免费开源的中后台模板，基于Typescript + Vue3(script setup语法) + Vite + Naive UI + umi-request(Fetch)构建
+- [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) - 一个基于 Vue3.0、Vite、Naive UI、Pinia 的轻量级后台管理模板，免费开源，优雅简洁
+- [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) - 一款基于 Vue 3 + Naive UI + Vite 2 的中后台管理模板
+- [Walnut Admin](https://github.com/Zhaocl1997/walnut-admin-client) - 免费开源全栈管理模板项目基于 Typescript. Vue3 + Vite + Naive UI + [Nestjs](https://nestjs.com/) + [mongodb](https://www.mongodb.com/)
+
+### 使用 NaiveUI 的其他项目
+
+- [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue 提交模板项目
 - [Aisen60/vant-theme](https://github.com/Aisen60/vant-theme) - 基于 Vant UI 的在线主题预览工具
 - [Opentapes](https://codeberg.org/xaviers/Opentapes) - 一款用于播放 Hip-Hop 混音带的融合 / 适应性应用，使用 Vue.js 和 Tauri 制作
-- [Soybean Admin](https://github.com/honghuangdc/soybean-admin) - 一个基于 Vue3 + Vite + Naive UI + TypeScript 的漂亮清爽的中后台模版
 - [Sweetforms](https://github.com/ChronicStone/VueSweetforms) - 一个基于 Naive UI + Typescript 功能丰富基于模式的表单生成器库
-- [Pear-Admin-Naive](https://github.com/pearadmin/pear-admin-naive) - 免费开源的中后台模板，基于Typescript + Vue3(script setup语法) + Vite + Naive UI + umi-request(Fetch)构建
 - [naive-ui-form-creator](https://github.com/doom-9/naive-ui-form-creator) - 一个基于 Naive UI 功能丰富的可视化表单生成器
 - [Apache DolphinScheduler](https://github.com/apache/dolphinscheduler) - 分布式易扩展的可视化工作流任务调度平台
 - [SymPy Beta](https://github.com/eagleoflqj/sympy_beta) - 无后端的问答引擎，基于 SymPy 和 Pyodide
-- [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) - 一个基于 Vue3.0、Vite、Naive UI、Pinia 的轻量级后台管理模板，免费开源，优雅简洁
 - [free-core](https://github.com/eamesh/free-core) - 一个可拖拽的跨端页面设计核心, 基于 Vue 3 + Vite + Naive UI
-- [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) - 一款基于 Vue 3 + Naive UI + Vite 2 的中后台管理模板
 - [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 音乐流媒体 Vue3 + Vite + TypeScript + Naive UI
 - [OpenDataV](https://github.com/AnsGoo/openDataV) - 一个炫酷的拖拽式、低代码数据可视化框架 Vue3 + Vite + TypeScript + Naive UI
-- [Walnut Admin](https://github.com/Zhaocl1997/walnut-admin-client) - 免费开源全栈管理模板项目基于 Typescript. Vue3 + Vite + Naive UI + [Nestjs](https://nestjs.com/) + [mongodb](https://www.mongodb.com/)
+- [My RIME](https://github.com/LibreService/my_rime) - 在线 RIME 中文输入法
 
 ### NaiveUI 第三方组件
 
