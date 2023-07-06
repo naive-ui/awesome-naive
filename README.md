@@ -42,6 +42,8 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
 - [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) - A backend management template, base on Vue 3 + Vite 2 + Naive UI.
 - [Walnut Admin](https://github.com/Zhaocl1997/walnut-admin-client) - A free open source fullstack admin template project based on Typescript. Vue3 + Vite + Naive UI + [Nestjs](https://nestjs.com/) + [mongodb](https://www.mongodb.com/).
+- [Dolphin Admin](https://dolphin-admin.bit-ocean.studio/) - A light-weight and elegant back-end management template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS.
+
 
 ### Other Projects Using NaiveUI
 
@@ -57,7 +59,8 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - Music streaming. Vue3 + Vite + TypeScript + Naive UI 
 - [OpenDataV](https://github.com/AnsGoo/openDataV) - A cool drag and drop, low code data visualization framework Vue3 + Vite + TypeScript + Naive UI
 - [My RIME](https://github.com/LibreService/my_rime) - Online Chinese IME powered by RIME.
-
+- [QRCode Generator](https://qrcode.bruceworld.top) - A QRCode generator site based on Naive UI + TypeScript.
+  
 ### Third-party components for NaiveUI
 
 - [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - A lightweight NaiveUI component for selecting gradients based on CSS gradient syntax
