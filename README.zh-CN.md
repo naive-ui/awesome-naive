@@ -58,6 +58,7 @@
 - [OpenDataV](https://github.com/AnsGoo/openDataV) - 一个炫酷的拖拽式、低代码数据可视化框架 Vue3 + Vite + TypeScript + Naive UI
 - [My RIME](https://github.com/LibreService/my_rime) - 在线 RIME 中文输入法
 - [QRCode Generator](https://qrcode.bruceworld.top) - 一个基于 Naive UI + TypeScript 的二维码生成器站点
+- [k8sPlayground](https://github.com/weibaohui/k8s-playgrounds) - Naive UI + TypeScript 管理k8s集群的工具
 
 ### NaiveUI 第三方组件
 
