@@ -43,7 +43,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) - A backend management template, base on Vue 3 + Vite 2 + Naive UI.
 - [Walnut Admin](https://github.com/Zhaocl1997/walnut-admin-client) - A free open source fullstack admin template project based on Typescript. Vue3 + Vite + Naive UI + [Nestjs](https://nestjs.com/) + [mongodb](https://www.mongodb.com/).
 - [Dolphin Admin](https://dolphin-admin.bit-ocean.studio/) - A light-weight and elegant back-end management template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS.
-
+- [BetterNCM Elaina Theme](https://github.com/keiko233/elaina-theme-netease) - A NetEase Cloud Music theme plugin, built on BetterNCM platform, utilizing Naive UI for the frontend UI.
 
 ### Other Projects Using NaiveUI
 

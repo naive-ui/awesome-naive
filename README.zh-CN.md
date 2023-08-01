@@ -43,6 +43,7 @@
 - [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) - 一款基于 Vue 3 + Naive UI + Vite 2 的中后台管理模板
 - [Walnut Admin](https://github.com/Zhaocl1997/walnut-admin-client) - 免费开源全栈管理模板项目基于 Typescript. Vue3 + Vite + Naive UI + [Nestjs](https://nestjs.com/) + [mongodb](https://www.mongodb.com/)
 - [Dolphin Admin](https://dolphin-admin.bit-ocean.studio/) - 一个基于 Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS 的轻量级、精致有趣的后台管理模板
+- [BetterNCM Elaina Theme](https://github.com/keiko233/elaina-theme-netease) - 一个网易云主题插件，基于 BetterNCM 加载，使用 Naive UI 做前端 UI。
 
 ### 使用 NaiveUI 的其他项目
 
