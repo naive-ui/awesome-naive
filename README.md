@@ -66,6 +66,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 ### Third-party components for NaiveUI
 
 - [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - A lightweight NaiveUI component for selecting gradients based on CSS gradient syntax
+- [X.Naive-UI](https://github.com/fudiwei/x.naive-ui) - An extension to the Naive-UI component library, that enables slots and template style API for DataTable/Dropdown/Menu/Select/Tree.
 
 ### Related To NaiveUI
 
