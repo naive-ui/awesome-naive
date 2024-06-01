@@ -49,6 +49,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 ### Other Projects Using NaiveUI
 
 - [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue submit template project.
+- [innic](https://www.innicdata.com) - A database GUI based on NaiveUI.
 - [Aisen60/vant-theme](https://github.com/Aisen60/vant-theme) - Online theme preview tool built on vant UI
 - [Opentapes](https://codeberg.org/xaviers/Opentapes) - A convergent/adaptive app for streaming Hip-Hop mixtapes. Made with Vue.js & Tauri.
 - [Sweetforms](https://github.com/ChronicStone/VueSweetforms) - A feature rich schema-based form generator package build with Naive UI + Typescript.
