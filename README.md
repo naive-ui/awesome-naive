@@ -45,6 +45,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Dolphin Admin](https://dolphin-admin.bit-ocean.studio/) - A light-weight and elegant back-end management template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS.
 - [BetterNCM Elaina Theme](https://github.com/keiko233/elaina-theme-netease) - A NetEase Cloud Music theme plugin, built on BetterNCM platform, utilizing Naive UI for the frontend UI.
 - [Bag-admin](https://vite.itnavs.com/) - 🎉vue-bag-admin，Using Vite4, Vue3, TypeScript, JavaScript construction, support a variety of writing and call, a complete framework system, responsive background management system
+- [Pinx Admin Template](https://1.envato.market/pinx) `Premium` - Admin template built with Vue/Nuxt + TypeScript, developer friendly and designed with Naive UI and Tailwind CSS.
 
 ### Other Projects Using NaiveUI
 
