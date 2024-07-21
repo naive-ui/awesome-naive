@@ -45,6 +45,7 @@
 - [Dolphin Admin](https://dolphin-admin.bit-ocean.studio/) - 一个基于 Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS 的轻量级、精致有趣的后台管理模板
 - [BetterNCM Elaina Theme](https://github.com/keiko233/elaina-theme-netease) - 一个网易云主题插件，基于 BetterNCM 加载，使用 Naive UI 做前端 UI。
 - [Bag-admin](https://vite.itnavs.com/) - 🎉vue-bag-admin，采用Vite4、Vue3、TypeScript、JavaScript构建，支持多种写法和调用，完整的框架体系，响应式中后台管理系统。
+- [Pinx Admin Template](https://1.envato.market/pinx) `Premium` - Pinx 是一个使用 Vue 3 + TypeScript 构建的管理模板，对开发人员友好，并使用 Naive UI 和 Tailwind CSS 进行设计。 与 Nuxt 兼容！
 
 ### 使用 NaiveUI 的其他项目
 
