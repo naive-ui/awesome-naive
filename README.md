@@ -26,7 +26,6 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Tutorial
 
-- [Provider management](https://amadeus711.github.io/note/vue/naive-ui-provider-management.html) - Encapsulating components for centralized management of NaiveUI's provider.
 - [naive-ui-provider](https://github.com/Talljack/naive-ui-provider) - NaiveUI uses provider project example.
 
 ### Admin Projects Using NaiveUI
