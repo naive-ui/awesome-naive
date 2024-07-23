@@ -41,7 +41,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) - A lightweight vue admin template, base on Vue 3 + Vite + Pinia + Naive UI，free and elegant.
 - [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) - A backend management template, base on Vue 3 + Vite 2 + Naive UI.
 - [Walnut Admin](https://github.com/Zhaocl1997/walnut-admin-client) - A free open source fullstack admin template project based on Typescript. Vue3 + Vite + Naive UI + [Nestjs](https://nestjs.com/) + [mongodb](https://www.mongodb.com/).
-- [Dolphin Admin](https://dolphin-admin.bit-ocean.studio/) - A light-weight and elegant back-end management template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS.
+- [Dolphin Admin](https://github.com/dolphin-admin/vue-admin) - A light-weight and elegant back-end management template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS.
 - [BetterNCM Elaina Theme](https://github.com/keiko233/elaina-theme-netease) - A NetEase Cloud Music theme plugin, built on BetterNCM platform, utilizing Naive UI for the frontend UI.
 - [Bag-admin](https://vite.itnavs.com/) - 🎉vue-bag-admin，Using Vite4, Vue3, TypeScript, JavaScript construction, support a variety of writing and call, a complete framework system, responsive background management system
 - [Pinx Admin Template](https://1.envato.market/pinx) `Premium` - Admin template built with Vue/Nuxt + TypeScript, developer friendly and designed with Naive UI and Tailwind CSS.
@@ -61,7 +61,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - Music streaming. Vue3 + Vite + TypeScript + Naive UI 
 - [OpenDataV](https://github.com/AnsGoo/openDataV) - A cool drag and drop, low code data visualization framework Vue3 + Vite + TypeScript + Naive UI
 - [My RIME](https://github.com/LibreService/my_rime) - Online Chinese IME powered by RIME.
-- [QRCode Generator](https://qrcode.bruceworld.top) - A QRCode generator site based on Naive UI + TypeScript.
+- [QRCode Generator](https://github.com/recallwei/qrcode-generator) - A QRCode generator site based on Naive UI + TypeScript.
 - [k8sPlayground](https://github.com/weibaohui/k8s-playgrounds) - A k8s manage tools,using  Naive UI + TypeScript + NestJS + electorn.
 
   

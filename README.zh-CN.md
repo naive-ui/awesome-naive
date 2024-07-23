@@ -41,7 +41,7 @@
 - [Vue Naive Admin](https://github.com/zclzone/vue-naive-admin) - 一个基于 Vue3.0、Vite、Naive UI、Pinia 的轻量级后台管理模板，免费开源，优雅简洁
 - [happyboot-tiger](https://github.com/pumelotea/happyboot-tiger) - 一款基于 Vue 3 + Naive UI + Vite 2 的中后台管理模板
 - [Walnut Admin](https://github.com/Zhaocl1997/walnut-admin-client) - 免费开源全栈管理模板项目基于 Typescript. Vue3 + Vite + Naive UI + [Nestjs](https://nestjs.com/) + [mongodb](https://www.mongodb.com/)
-- [Dolphin Admin](https://dolphin-admin.bit-ocean.studio/) - 一个基于 Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS 的轻量级、精致有趣的后台管理模板
+- [Dolphin Admin](https://github.com/dolphin-admin/vue-admin) - 一个基于 Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS 的轻量级、精致有趣的后台管理模板
 - [BetterNCM Elaina Theme](https://github.com/keiko233/elaina-theme-netease) - 一个网易云主题插件，基于 BetterNCM 加载，使用 Naive UI 做前端 UI。
 - [Bag-admin](https://vite.itnavs.com/) - 🎉vue-bag-admin，采用Vite4、Vue3、TypeScript、JavaScript构建，支持多种写法和调用，完整的框架体系，响应式中后台管理系统。
 - [Pinx Admin Template](https://1.envato.market/pinx) `付费` - Pinx 是一个使用 Vue 3 + TypeScript 构建的管理模板，对开发人员友好，并使用 Naive UI 和 Tailwind CSS 进行设计。 与 Nuxt 兼容！
@@ -59,7 +59,7 @@
 - [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - 音乐流媒体 Vue3 + Vite + TypeScript + Naive UI
 - [OpenDataV](https://github.com/AnsGoo/openDataV) - 一个炫酷的拖拽式、低代码数据可视化框架 Vue3 + Vite + TypeScript + Naive UI
 - [My RIME](https://github.com/LibreService/my_rime) - 在线 RIME 中文输入法
-- [QRCode Generator](https://qrcode.bruceworld.top) - 一个基于 Naive UI + TypeScript 的二维码生成器站点
+- [QRCode Generator](https://github.com/recallwei/qrcode-generator) - 一个基于 Naive UI + TypeScript 的二维码生成器站点
 - [k8sPlayground](https://github.com/weibaohui/k8s-playgrounds) - Naive UI + TypeScript 管理k8s集群的工具
 
 ### NaiveUI 第三方组件
