@@ -6,9 +6,8 @@ Welcome to contributing your interesting ideas in this project, but in order to 
 - Please add content in the corresponding directory, don't add directory at will.
 - The added format is `- [title] (url) - introduction`.
 - You need to add period `.` after the English introduction. Don't add period `。` after the Chinese introduction.
-- Add space bewteen Chinese and Latin charactors.
+- Add space between Chinese and Latin characters.
 - The Chinese and English documents need to be updated synchronously. If the Chinese and English documents are modified by two issues, please link them with each other, otherwise they will not be merged.
-
 
 欢迎在这个项目中贡献出你的奇思妙想，但是为了提高项目的可维护性，我们需要注意以下几点：
 

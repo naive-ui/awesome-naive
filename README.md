@@ -17,7 +17,9 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [Contents](#contents)
 - [List](#list)
   - [Tutorial](#tutorial)
-  - [Projects Using NaiveUI](#projects-using-naiveui)
+  - [Admin Projects Using NaiveUI](#admin-projects-using-naiveui)
+  - [Other Projects Using NaiveUI](#other-projects-using-naiveui)
+  - [Third-party components for NaiveUI](#third-party-components-for-naiveui)
   - [Related To NaiveUI](#related-to-naiveui)
 
 ## List
@@ -57,13 +59,12 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [SymPy Beta](https://github.com/eagleoflqj/sympy_beta) - An answer engine without backend, powered by SymPy and Pyodide.
 - [free-core](https://github.com/eamesh/free-core) - A drag and drop cross end page design core, base on Vue 3 + Vite + Naive UI.
 - [vitesse-modular-naiveui](https://github.com/arijs/vitesse-modular-naiveui) - A modular template based on [Vitesse](https://github.com/antfu/vitesse) with many features.
-- [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - Music streaming. Vue3 + Vite + TypeScript + Naive UI 
+- [vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music) - Music streaming. Vue3 + Vite + TypeScript + Naive UI
 - [OpenDataV](https://github.com/AnsGoo/openDataV) - A cool drag and drop, low code data visualization framework Vue3 + Vite + TypeScript + Naive UI
 - [My RIME](https://github.com/LibreService/my_rime) - Online Chinese IME powered by RIME.
 - [QRCode Generator](https://github.com/recallwei/qrcode-generator) - A QRCode generator site based on Naive UI + TypeScript.
 - [k8sPlayground](https://github.com/weibaohui/k8s-playgrounds) - A k8s manage tools,using  Naive UI + TypeScript + NestJS + electorn.
 
-  
 ### Third-party components for NaiveUI
 
 - [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - A lightweight NaiveUI component for selecting gradients based on CSS gradient syntax
@@ -78,5 +79,4 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [vooks](https://github.com/07akioni/vooks) - Utils Composable for Vue.
 - [vdirs](https://github.com/07akioni/vdirs) - Helper directives for Vue.
 - [naive-ui-snippets](https://github.com/JimFirst/naive-ui-snippets) - Code Snippets of Naive UI for VS Code.
-- [vite-plugin-naive-ui-md](https://github.com/Volankey/vite-plugin-naive-ui-md) - 
-Markdown for Vite with Naive UI Styles.
+- [vite-plugin-naive-ui-md](https://github.com/Volankey/vite-plugin-naive-ui-md) - Markdown for Vite with Naive UI Styles.
