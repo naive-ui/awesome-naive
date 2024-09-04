@@ -17,7 +17,9 @@
 - [目录](#目录)
 - [列表](#列表)
   - [教程](#教程)
-  - [使用 NaiveUI 的库](#使用-naiveui-的库)
+  - [使用 NaiveUI 的中后台模板项目](#使用-naiveui-的中后台模板项目)
+  - [使用 NaiveUI 的其他项目](#使用-naiveui-的其他项目)
+  - [NaiveUI 第三方组件](#naiveui-第三方组件)
   - [NaiveUI 相关库](#naiveui-相关库)
 
 ## 列表
@@ -32,7 +34,6 @@
 
 - [Admin Work](https://github.com/qingqingxuan/admin-work) - 一款免费开源、功能强大、方便易用、漂亮的中后台管理系统模板
 - [Naive UI Admin](https://github.com/jekip/naive-ui-admin) - 免费开源的中后台模板
-- [Gemini Admin UI Simple](https://github.com/luterc/gemini-admin-ui-simple) - 简单易用免费开源的中后台管理模板脚手架
 - [zce/fearless](https://github.com/zce/fearless) - 一个基于 Vue.js 3.x & TypeScript & Vite 的管理平台脚手架，包含基本的身份认证和鉴权
 - [zmtlwzy-admin](https://github.com/zmtlwzy/zmtlwzy-admin) - 一个接近原生风格、免费开源的中后台模板
 - [tsx-naive-admin](https://github.com/WalkAlone0325/tsx-naive-admin) - 基于 Vue 3 + Naive UI + TSX + Vite 的后台管理基本模板
@@ -76,5 +77,4 @@
 - [vooks](https://github.com/07akioni/vooks) - Vue 的可组合式工具库
 - [vdirs](https://github.com/07akioni/vdirs) - Vue 的指令辅助库
 - [naive-ui-snippets](https://github.com/JimFirst/naive-ui-snippets) - VS Code 中 Naive UI 的 Code Snippets 工具
-- [vite-plugin-naive-ui-md](https://github.com/Volankey/vite-plugin-naive-ui-md) - 
-Naive UI 风格的 Vite Markdown 插件
+- [vite-plugin-naive-ui-md](https://github.com/Volankey/vite-plugin-naive-ui-md) - Naive UI 风格的 Vite Markdown 插件
