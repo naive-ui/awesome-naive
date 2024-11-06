@@ -63,12 +63,13 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [OpenDataV](https://github.com/AnsGoo/openDataV) - A cool drag and drop, low code data visualization framework Vue3 + Vite + TypeScript + Naive UI
 - [My RIME](https://github.com/LibreService/my_rime) - Online Chinese IME powered by RIME.
 - [QRCode Generator](https://github.com/recallwei/qrcode-generator) - A QRCode generator site based on Naive UI + TypeScript.
-- [k8sPlayground](https://github.com/weibaohui/k8s-playgrounds) - A k8s manage tools,using  Naive UI + TypeScript + NestJS + electorn.
+- [k8sPlayground](https://github.com/weibaohui/k8s-playgrounds) - A k8s manage tools,using Naive UI + TypeScript + NestJS + electorn.
 
 ### Third-party components for NaiveUI
 
 - [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - A lightweight NaiveUI component for selecting gradients based on CSS gradient syntax
 - [X.Naive-UI](https://github.com/fudiwei/x.naive-ui) - An extension to the Naive-UI component library, that enables slots and template style API for DataTable/Dropdown/Menu/Select/Tree.
+- - [naive-ui-components](https://ashuicoder.github.io/naive-ui-components/naive-ui-form.html) - Practical components wrapped based on naive-ui, including forms, tables, uploads, etc.
 
 ### Related To NaiveUI
 
