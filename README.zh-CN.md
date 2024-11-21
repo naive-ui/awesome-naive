@@ -67,7 +67,7 @@
 
 - [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - 基于 CSS 渐变语法选择渐变的轻量级 Naive-UI 组件
 - [X.Naive-UI](https://github.com/fudiwei/x.naive-ui) - 一个对 Naive-UI 组件库的扩展，使 DataTable/Dropdown/Menu/Select/Tree 等组件支持插槽模板式的写法
-- [naive-ui-components](https://ashuicoder.github.io/naive-ui-components/naive-ui-form.html) - 基于 naive-ui 封装的实用组件，包括表单、表格、上传等
+- [naive-ui-components](https://ashuicoder.github.io/naive-ui-components) - 基于 naive-ui 封装的实用组件，包括表单、表格、上传等
 
 ### NaiveUI 相关库
 

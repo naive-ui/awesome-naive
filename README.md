@@ -70,7 +70,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 - [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - A lightweight NaiveUI component for selecting gradients based on CSS gradient syntax
 - [X.Naive-UI](https://github.com/fudiwei/x.naive-ui) - An extension to the Naive-UI component library, that enables slots and template style API for DataTable/Dropdown/Menu/Select/Tree.
-- - [naive-ui-components](https://ashuicoder.github.io/naive-ui-components/naive-ui-form.html) - Practical components wrapped based on naive-ui, including forms, tables, uploads, etc.
+- [naive-ui-components](https://ashuicoder.github.io/naive-ui-components) - Practical components wrapped based on naive-ui, including forms, tables, uploads, etc.
 
 ### Related To NaiveUI
 
