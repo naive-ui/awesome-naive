@@ -63,6 +63,7 @@
 - [My RIME](https://github.com/LibreService/my_rime) - 在线 RIME 中文输入法
 - [QRCode Generator](https://github.com/recallwei/qrcode-generator) - 一个基于 Naive UI + TypeScript 的二维码生成器站点
 - [k8sPlayground](https://github.com/weibaohui/k8s-playgrounds) - Naive UI + TypeScript 管理 k8s 集群的工具
+- [DocKit](https://dockit.geekfun.club/) - 基于 NaiveUI 和 Tauri 实现的 NoSQL 数据库 GUI 桌面客户端，支持 elasticsearch、OpenSearch 等
 
 ### NaiveUI 第三方组件
 
