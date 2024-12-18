@@ -50,7 +50,7 @@
 
 ### 使用 NaiveUI 的其他项目
 
-- [NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS九歌云原生音乐服务器/全平台客户端，一个基于Naive UI、Typescript、Electron、Flutter构建的跨平台音乐客户端与基于Golang的clean后端架构音乐服务端
+- [NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS九歌云原生音乐服务器/全平台客户端，一个基于Naive UI & Typescript & Electron & Flutter构建的跨平台音乐客户端，与基于Golang的clean后端架构音乐服务端
 - [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue 提交模板项目
 - [Aisen60/vant-theme](https://github.com/Aisen60/vant-theme) - 基于 Vant UI 的在线主题预览工具
 - [Opentapes](https://codeberg.org/xaviers/Opentapes) - 一款用于播放 Hip-Hop 混音带的融合 / 适应性应用，使用 Vue.js 和 Tauri 制作
