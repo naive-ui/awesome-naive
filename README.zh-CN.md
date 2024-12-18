@@ -70,7 +70,7 @@
 - [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - 基于 CSS 渐变语法选择渐变的轻量级 Naive-UI 组件
 - [X.Naive-UI](https://github.com/fudiwei/x.naive-ui) - 一个对 Naive-UI 组件库的扩展，使 DataTable/Dropdown/Menu/Select/Tree 等组件支持插槽模板式的写法
 - [naive-ui-components](https://ashuicoder.github.io/naive-ui-components) - 基于 naive-ui 封装的实用组件，包括表单、表格、上传等
-- [pro-naive-ui][https://naive-ui.pro-components.cn] - 基于 Naive UI 二次封装，适用于中后台项目，希望让你早点下班，多点时间陪伴家人
+- [pro-naive-ui](https://naive-ui.pro-components.cn) - 基于 Naive UI 二次封装，适用于中后台项目，希望让你早点下班，多点时间陪伴家人
 - [playground](https://play.pro-components.cn) - Pro Naive UI 的演练场，也适用于 Naive UI
 
 ### NaiveUI 相关库
