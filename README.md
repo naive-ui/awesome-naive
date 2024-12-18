@@ -50,7 +50,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Other Projects Using NaiveUI
 
-- [NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong cloud native music server/full platform client, a cross platform music client based on naive UI、typescript、electron and flutter, and a clean back-end architecture music server based on golang
+- [NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong cloud native music server/full platform client, a cross platform music client based on naive UI & typescript & electron & flutter, and a clean back-end architecture music server based on golang.
 - [issue-helper](https://github.com/naive-ui/issue-helper) - NaiveUI issue submit template project.
 - [innic](https://www.innicdata.com) - A database GUI based on NaiveUI.
 - [Aisen60/vant-theme](https://github.com/Aisen60/vant-theme) - Online theme preview tool built on vant UI
