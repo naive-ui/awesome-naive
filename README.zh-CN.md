@@ -46,6 +46,7 @@
 - [BetterNCM Elaina Theme](https://github.com/keiko233/elaina-theme-netease) - 一个网易云主题插件，基于 BetterNCM 加载，使用 Naive UI 做前端 UI。
 - [Bag-admin](https://vite.itnavs.com/) - 🎉vue-bag-admin，采用 Vite4、Vue3、TypeScript、JavaScript 构建，支持多种写法和调用，完整的框架体系，响应式中后台管理系统。
 - [Pinx Admin Template](https://1.envato.market/pinx) `付费` - Pinx 是一个使用 Vue 3 + TypeScript 构建的管理模板，对开发人员友好，并使用 Naive UI 和 Tailwind CSS 进行设计。 与 Nuxt 兼容！
+- [rengar-admin](https://rengarjs.github.io/rengar-admin-doc/) - 基于 Vue3.5 + Typescript + Naive UI + Unocss + Vite6.x 的后台模板，简单易用，文档完善，移动端适配。
 - [YummyAdmin](https://github.com/doroudi/YummyAdmin) - 📈 基于 Vue 3 的管理面板模板 NaiveUI + Tailwind + Pinia + MSW + TS, 设计精美并支持多语言.
 
 ### 使用 NaiveUI 的其他项目
@@ -70,8 +71,11 @@
 - [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - 基于 CSS 渐变语法选择渐变的轻量级 Naive-UI 组件
 - [X.Naive-UI](https://github.com/fudiwei/x.naive-ui) - 一个对 Naive-UI 组件库的扩展，使 DataTable/Dropdown/Menu/Select/Tree 等组件支持插槽模板式的写法
 - [naive-ui-components](https://ashuicoder.github.io/naive-ui-components) - 基于 naive-ui 封装的实用组件，包括表单、表格、上传等
+  <<<<<<< HEAD
+  =======
 - [pro-naive-ui](https://naive-ui.pro-components.cn) - 基于 Naive UI 二次封装，适用于中后台项目，希望让你早点下班，多点时间陪伴家人
 - [playground](https://play.pro-components.cn) - Pro Naive UI 的演练场，也适用于 Naive UI
+  > > > > > > > 4fbef00a2cf9bfb95d0dd7adc9c59de2605e4db7
 
 ### NaiveUI 相关库
 

@@ -46,6 +46,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [BetterNCM Elaina Theme](https://github.com/keiko233/elaina-theme-netease) - A NetEase Cloud Music theme plugin, built on BetterNCM platform, utilizing Naive UI for the frontend UI.
 - [Bag-admin](https://vite.itnavs.com/) - 🎉vue-bag-admin，Using Vite4, Vue3, TypeScript, JavaScript construction, support a variety of writing and call, a complete framework system, responsive background management system
 - [Pinx Admin Template](https://1.envato.market/pinx) `Premium` - Admin template built with Vue/Nuxt + TypeScript, developer friendly and designed with Naive UI and Tailwind CSS.
+- [rengar-admin](https://rengarjs.github.io/rengar-admin-doc/) - a Vue3.5 + Typescript + Naive UI + Unocss + Vite6.x admin template
 - [YummyAdmin](https://github.com/doroudi/YummyAdmin) - 📈 Vue 3 admin panel template based on Vue3 + NaiveUI + Tailwind + Pinia + MSW + TS.
 
 ### Other Projects Using NaiveUI
@@ -65,15 +66,18 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [My RIME](https://github.com/LibreService/my_rime) - Online Chinese IME powered by RIME.
 - [QRCode Generator](https://github.com/recallwei/qrcode-generator) - A QRCode generator site based on Naive UI + TypeScript.
 - [k8sPlayground](https://github.com/weibaohui/k8s-playgrounds) - A k8s manage tools,using Naive UI + TypeScript + NestJS + electorn.
-- [DocKit](https://dockit.geekfun.club/) - NoSQL database GUI desktop client  based on NaiveUI and tauri, support elasticsearch, OpenSearch, etc.
+- [DocKit](https://dockit.geekfun.club/) - NoSQL database GUI desktop client based on NaiveUI and tauri, support elasticsearch, OpenSearch, etc.
 
 ### Third-party components for NaiveUI
 
 - [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - A lightweight NaiveUI component for selecting gradients based on CSS gradient syntax
 - [X.Naive-UI](https://github.com/fudiwei/x.naive-ui) - An extension to the Naive-UI component library, that enables slots and template style API for DataTable/Dropdown/Menu/Select/Tree.
 - [naive-ui-components](https://ashuicoder.github.io/naive-ui-components) - Practical components wrapped based on naive-ui, including forms, tables, uploads, etc.
+  <<<<<<< HEAD
+  =======
 - [pro-naive-ui](https://naive-ui.pro-components.cn) - Based on Naive UI, it is suitable for middle and background projects, hoping to let you leave work early and spend more time with your family.
 - [playground](https://play.pro-components.cn) - Pro Naive UI playground, also for Naive UI.
+  > > > > > > > 4fbef00a2cf9bfb95d0dd7adc9c59de2605e4db7
 
 ### Related To NaiveUI
 
