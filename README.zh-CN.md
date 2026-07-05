@@ -32,6 +32,7 @@
 
 ### 使用 NaiveUI 的中后台模板项目
 
+- [Robot Admin](https://github.com/ChenyCHENYU/Robot_Admin) - 一款现代化、企业级、开箱即用、插件级多模态架构，绝对断更的中后台管理系统
 - [Admin Work](https://github.com/qingqingxuan/admin-work) - 一款免费开源、功能强大、方便易用、漂亮的中后台管理系统模板
 - [Naive UI Admin](https://github.com/jekip/naive-ui-admin) - 免费开源的中后台模板
 - [zce/fearless](https://github.com/zce/fearless) - 一个基于 Vue.js 3.x & TypeScript & Vite 的管理平台脚手架，包含基本的身份认证和鉴权
@@ -67,6 +68,7 @@
 
 ### NaiveUI 第三方组件
 
+- [naive-ui-components-plus](https://github.com/ChenyCHENYU/naive-ui-components) - 基于 Naive-UI、Robot Admin 封装的通用业务组件库，开箱即用，文档健全，示例清晰
 - [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - 基于 CSS 渐变语法选择渐变的轻量级 Naive-UI 组件
 - [X.Naive-UI](https://github.com/fudiwei/x.naive-ui) - 一个对 Naive-UI 组件库的扩展，使 DataTable/Dropdown/Menu/Select/Tree 等组件支持插槽模板式的写法
 - [naive-ui-components](https://ashuicoder.github.io/naive-ui-components) - 基于 naive-ui 封装的实用组件，包括表单、表格、上传等
