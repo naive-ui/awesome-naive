@@ -32,6 +32,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Admin Projects Using NaiveUI
 
+- [Robot Admin](https://github.com/ChenyCHENYU/Robot_Admin) - A modern, enterprise-grade, out-of-the-box, plugin-level multi-modal architecture admin management system.
 - [Admin Work](https://github.com/qingqingxuan/admin-work) -A free open source, powerful, easy to use, beautiful back-office management system solution.
 - [Naive UI Admin](https://github.com/jekip/naive-ui-admin) - A free open source out-of-box UI solution for enterprise applications.
 - [zce/fearless](https://github.com/zce/fearless) - A dashboard scaffolding based on Vue.js 3.x & TypeScript created by Vite.
@@ -70,6 +71,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 
 ### Third-party components for NaiveUI
 
+- [naive-ui-components-plus](https://github.com/ChenyCHENYU/naive-ui-components) - A general business component library based on Naive-UI and Robot Admin, out-of-the-box with comprehensive documentation and clear examples.
 - [Naive Gradient Picker](https://github.com/MauriceConrad/naive-gradient-picker) - A lightweight NaiveUI component for selecting gradients based on CSS gradient syntax
 - [X.Naive-UI](https://github.com/fudiwei/x.naive-ui) - An extension to the Naive-UI component library, that enables slots and template style API for DataTable/Dropdown/Menu/Select/Tree.
 - [naive-ui-components](https://ashuicoder.github.io/naive-ui-components) - Practical components wrapped based on naive-ui, including forms, tables, uploads, etc.
