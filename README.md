@@ -88,3 +88,4 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [vdirs](https://github.com/07akioni/vdirs) - Helper directives for Vue.
 - [naive-ui-snippets](https://github.com/JimFirst/naive-ui-snippets) - Code Snippets of Naive UI for VS Code.
 - [vite-plugin-naive-ui-md](https://github.com/Volankey/vite-plugin-naive-ui-md) - Markdown for Vite with Naive UI Styles.
+- [naive-ui-intelligence](https://github.com/tu6ge/naive-ui-intelligence) - Intelligence Code of Naive UI for VS Code.

@@ -83,3 +83,4 @@
 - [vdirs](https://github.com/07akioni/vdirs) - Vue 的指令辅助库
 - [naive-ui-snippets](https://github.com/JimFirst/naive-ui-snippets) - VS Code 中 Naive UI 的 Code Snippets 工具
 - [vite-plugin-naive-ui-md](https://github.com/Volankey/vite-plugin-naive-ui-md) - Naive UI 风格的 Vite Markdown 插件
+- [naive-ui-intelligence](https://github.com/tu6ge/naive-ui-intelligence) - 在 VS Code 中使用的关于 Naive UI 的智能提示工具
