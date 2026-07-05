@@ -66,6 +66,7 @@ Please see [CONTRIBUTING.md](https://github.com/naive-ui/awesome-naive/blob/main
 - [QRCode Generator](https://github.com/recallwei/qrcode-generator) - A QRCode generator site based on Naive UI + TypeScript.
 - [k8sPlayground](https://github.com/weibaohui/k8s-playgrounds) - A k8s manage tools,using Naive UI + TypeScript + NestJS + electorn.
 - [DocKit](https://dockit.geekfun.club/) - NoSQL database GUI desktop client  based on NaiveUI and tauri, support elasticsearch, OpenSearch, etc.
+- [Listify](https://github.com/nightrunner91/listify/) - Personal media collection tracker build with Vue 3 + Naive UI + Fastify.
 
 ### Third-party components for NaiveUI
 
